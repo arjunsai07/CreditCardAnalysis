@@ -45,6 +45,11 @@ This project is based on the NLP Named Entity Recognition concept where we can e
   
   ![image](https://github.com/arjunsai07/CreditCardEntityRecognition/assets/14110439/8712d5bb-f40a-4ee4-a34a-23996e9bf703)
 
+  o	  Once the model results are satisfactory, write the results of the prediction (above screenshot) into a **MongoDB** database.                               
+
+  ![image](https://github.com/arjunsai07/CreditCardEntityRecognition/assets/14110439/da9fe141-3027-499f-b2a5-6f59d231d42b)
+
+
   
 
   
