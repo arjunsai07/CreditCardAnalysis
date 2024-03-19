@@ -37,7 +37,8 @@ This project is based on the NLP Named Entity Recognition concept where we can e
   ![image](https://github.com/arjunsai07/CreditCardEntityRecognition/assets/14110439/9b0903aa-c7f6-4aea-8909-a868722cb619)
 
 
-  ![image](https://github.com/arjunsai07/CreditCardEntityRecognition/assets/14110439/12610498-b9c4-4d46-8255-73cca6c460b2)
+  ![image](https://github.com/arjunsai07/CreditCardEntityRecognition/assets/14110439/e9f71295-1089-4afa-bcb3-81d75c7258e9)
+
 
 
   o	  Create a set of test data and predict the entities of this data using the model trained in the previous step.       
