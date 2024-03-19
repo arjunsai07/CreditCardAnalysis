@@ -34,13 +34,14 @@ This project is based on the NLP Named Entity Recognition concept where we can e
   
   o	  !python -m spacy train /content/config.cfg --output ./output --paths.train ./train.spacy --paths.dev ./train.spacy --gpu-id 0 is used to train the model using the provided configuration file.
   
-  o	![image](https://github.com/arjunsai07/CreditCardEntityRecognition/assets/14110439/12610498-b9c4-4d46-8255-73cca6c460b2)
+  ![image](https://github.com/arjunsai07/CreditCardEntityRecognition/assets/14110439/12610498-b9c4-4d46-8255-73cca6c460b2)
 
-  o	  ![image](https://github.com/arjunsai07/CreditCardEntityRecognition/assets/14110439/12610498-b9c4-4d46-8255-73cca6c460b2)
+  ![image](https://github.com/arjunsai07/CreditCardEntityRecognition/assets/14110439/12610498-b9c4-4d46-8255-73cca6c460b2)
 
 
-  o	  Create a set of test data and predict the entities of this data using the model trained in the previous step.                             
-      ![image](https://github.com/arjunsai07/CreditCardEntityRecognition/assets/14110439/8712d5bb-f40a-4ee4-a34a-23996e9bf703)
+  o	  Create a set of test data and predict the entities of this data using the model trained in the previous step.       
+  
+  ![image](https://github.com/arjunsai07/CreditCardEntityRecognition/assets/14110439/8712d5bb-f40a-4ee4-a34a-23996e9bf703)
 
   
 
