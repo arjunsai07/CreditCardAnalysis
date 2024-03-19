@@ -34,7 +34,7 @@ This project is based on the NLP Named Entity Recognition concept where we can e
   
   o	  !python -m spacy train /content/config.cfg --output ./output --paths.train ./train.spacy --paths.dev ./train.spacy --gpu-id 0 is used to train the model using the provided configuration file.
   
-      ![image](https://github.com/arjunsai07/CreditCardEntityRecognition/assets/14110439/12610498-b9c4-4d46-8255-73cca6c460b2)
+  o	![image](https://github.com/arjunsai07/CreditCardEntityRecognition/assets/14110439/12610498-b9c4-4d46-8255-73cca6c460b2)
 
   o	  ![image](https://github.com/arjunsai07/CreditCardEntityRecognition/assets/14110439/12610498-b9c4-4d46-8255-73cca6c460b2)
 
