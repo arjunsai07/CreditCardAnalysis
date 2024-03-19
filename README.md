@@ -19,7 +19,10 @@ This project is based on the NLP Named Entity Recognition concept where we can e
 •	Convert the text into a Docbin object, as required by SpaCy.
 •	Save the Docbin object into a folder in local PC as "./train.spacy".
 •	Model training (can be done either in Command Prompt or Jupyter)- 
+  
   o	  !python -m spacy init fill-config ./base_config.cfg ./config.cfg is used to create a configuration file with initial values specified for hyperparameters of the NLP model (can be adjusted to improve model performance).
   ![image](https://github.com/arjunsai07/CreditCardEntityRecognition/assets/14110439/3f857d57-1159-4559-8a67-5cdac3d7cca7)
+  
+  
   o	  !python -m spacy train /content/config.cfg --output ./output --paths.train ./train.spacy --paths.dev ./train.spacy --gpu-id 0 is used to train the model using the provided configuration file.
 
